@@ -1,0 +1,11 @@
+.main{
+    height: 550px;
+    width: 1340px;    
+}
+
+
+*{
+    background-image: url(shopimage/cover_image/myntra.jpg);
+    background-repeat: no-repeat;
+   
+}

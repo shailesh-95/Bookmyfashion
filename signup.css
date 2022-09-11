@@ -1,0 +1,53 @@
+.main{
+    height: 600px;
+    width: 1340px;
+    background-color: linen;
+}
+.box{
+    height: 400px;
+    width: 510px;
+    background-color: lightgrey;
+    margin-left: 410px;
+    padding-top: 10px;
+    margin-top: 50px;
+    
+    
+}
+h1{
+    color: black;
+    font: bolder;
+    margin-left: 80px;
+    
+}
+button{
+    color: white;
+    font: bolder;
+    background-color: #008200;
+    font-family: sans-serif;
+    height: 40px;
+    width: 280px;
+    font-size: large;
+    border-width: 0ch;
+    border-radius: 12PX;
+    
+}
+button:hover{
+    background-color: rgb(25, 92, 9);
+}
+form{
+    margin-left: 120px;
+}
+a{
+    text-decoration: none;
+     font-family: arial;
+    color: black;
+}
+a:hover{
+    font-weight: bolder;
+}
+form input{
+    padding: 10px;
+    border-radius: 10px;
+    border-width: 0ch;
+    font-family: sans-serif;
+}

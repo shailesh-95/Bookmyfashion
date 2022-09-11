@@ -1,0 +1,72 @@
+.main{
+    height: 1500px;
+    width: 1310px;
+    margin-top: 0ch;
+    
+}
+.box1{
+    
+    height: 10px;
+    width: 1330px;
+    font-family: sans-serif;
+    position: fixed;
+    margin-top: 0px;
+    
+    
+
+}
+#logo{
+    height: 40px;
+    width: 50px;
+    margin-right: 1280px;
+    border-radius: 12px;
+
+} 
+#deals{
+    
+    width: 1330px;
+    border-radius: 12px;
+}
+#end{
+    height: 460px;
+    width: 580px;
+    border-radius: 12px;
+    transition: all 1s;
+}
+#end:hover{
+    transform: scale(1.1);
+}
+#sale{
+    height: 460px;
+    width: 725px;
+    border-radius: 12px;
+    transition: all 1s;
+    
+}
+#sale:hover{
+    transform: scale(1.1);
+}
+#boys{
+    height: 500px;
+    width: 1330px;
+}
+#season{
+    margin-top: 5px;
+    height: 520px;
+    width: 1330px;
+    border-radius: 12px;
+}
+
+a{
+    color: black;
+     margin-top: 20px;
+    text-decoration: none;
+    transition: all;
+    font-family: sans-serif;
+
+    
+}
+a:hover{
+    font-weight: bolder;
+}
+

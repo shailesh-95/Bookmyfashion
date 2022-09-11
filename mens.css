@@ -1,0 +1,44 @@
+.main{
+    
+    width: 1340px;
+    height:2000px;
+    
+}
+#store{
+    font-weight: 500;
+}
+#store:hover{
+    font-weight: bolder;
+}
+h1{
+    font-weight: 300;
+}
+h1:hover{
+    font-weight: bolder;
+}
+
+img{
+    height: 410px;
+    width: 330px;
+    transition: all 1s;
+}
+img:hover{
+    transform: scale(1.1);
+}
+button{
+    height: 40PX;
+    width: 330px;
+    color: whitesmoke;
+    background-color: orange;
+}  
+button:hover{
+    background-color: orangered;
+}
+a{
+    text-decoration: none;
+    font-family: arial;
+    color: black;
+}
+a:hover{
+    font-weight: bolder;
+}
